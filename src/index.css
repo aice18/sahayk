@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --font-headline: "Public Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-label: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --color-primary: #3b82f6;
+  --color-primary-container: #eff6ff;
+  --color-primary-fixed: #93c5fd;
+  --color-primary-fixed-dim: #60a5fa;
+  
+  --color-secondary: #0ea5e9;
+  --color-secondary-container: #e0f2fe;
+  
+  --color-tertiary: #3e2400;
+  --color-tertiary-container: #5c3800;
+  
+  --color-surface: #f7f9fb;
+  --color-surface-container: #eceef0;
+  --color-surface-container-low: #f2f4f6;
+  --color-surface-container-high: #e6e8ea;
+  --color-surface-container-highest: #e0e3e5;
+  --color-surface-container-lowest: #ffffff;
+  
+  --color-on-surface: #191c1e;
+  --color-on-surface-variant: #444651;
+  --color-outline: #757682;
+  --color-outline-variant: #c5c5d3;
+}
+
+@layer base {
+  body {
+    @apply bg-surface text-on-surface font-body;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+.chat-bubble-received {
+  border-bottom-left-radius: 4px;
+}
+
+.chat-bubble-sent {
+  border-bottom-right-radius: 4px;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Accessibility Modes */
+.color-blind {
+  filter: saturate(0.5) contrast(1.2);
+}
+
+.large-font {
+  font-size: 1.15rem;
+}
+
+.large-font h1 { font-size: 1.25em; }
+.large-font h2 { font-size: 1.25em; }
+.large-font h3 { font-size: 1.25em; }
+.large-font p { font-size: 1.1em; }
+.large-font button { font-size: 1.1em; }
+.large-font span { font-size: 1.1em; }
