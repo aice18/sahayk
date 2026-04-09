@@ -164,7 +164,7 @@ VITE_SUPABASE_ANON_KEY=your_key
 
 • Jyotsna G
 
-• Ashiosh Sharma
+• Ashish Sharma
 
 • Dhanush N
 
