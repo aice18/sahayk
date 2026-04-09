@@ -98,25 +98,39 @@ It also works proactively by notifying users about benefits they are eligible fo
 # 🛠️ Tech Stack
 
 Frontend
+
 • React 19
+
 • TypeScript
+
 • Vite
+
 • Tailwind CSS
+
 • React Router DOM
+
 • i18next + react-i18next
+
 • Recharts
 
 Backend / Server
+
 • Node.js + Express
+
 • Google Gemini AI
+
 • Vite middleware
 
 Authentication / Data
+
 • Firebase
+
 • Supabase
 
 ⚙️ Setup
+
 npm install
+
 npm run dev
 
 Create a .env file:
