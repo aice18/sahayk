@@ -7,6 +7,7 @@ Bridging the last-mile gap in welfare delivery through AI, language inclusivity,
 Despite India’s world-class digital infrastructure like UPI and Direct Benefit Transfer (DBT), billions in welfare remain unclaimed every year. The issue isn’t funding — it’s accessibility.
 Sahayk is an AI-native mobile application designed to act as a proactive digital concierge for citizens, simplifying how people discover, apply for, and track government welfare schemes.
 
+
 # ❗ The Problem: A Silent Crisis
 
 🔍 The Eligibility Paradox
@@ -20,6 +21,7 @@ Citizens spend 7–15 days collecting documents that already exist digitally (e.
 • Administrative fatigue
 • Delays
 • Increased chances of corruption
+
 
 # 💡 The Solution: Sahayk
 
@@ -127,7 +129,8 @@ Authentication / Data
 
 • Supabase
 
-⚙️ Setup
+
+# ⚙️ Setup
 
 npm install
 
@@ -139,6 +142,7 @@ GEMINI_API_KEY=your_api_key
 VITE_API_URL=http://localhost:3000/api
 VITE_SUPABASE_URL=your_url
 VITE_SUPABASE_ANON_KEY=your_key
+
 
 # 👥 Who Are the Users
 
@@ -154,15 +158,14 @@ VITE_SUPABASE_ANON_KEY=your_key
 
 # 🤝 Credits
 
-Team Sahayk
+# Team Zypher
 
 • Team Lead: Ayush Kumar Choudhary
 
-• Ashish Sharma
-
 • Jyotsna G
+
+• Ashiosh Sharma
 
 • Dhanush N
 
-Built for Build With AI Hackathon
-Presidency University
+# Built for Build With AI Hackathon | Presidency University
