@@ -122,10 +122,15 @@ VITE_SUPABASE_URL=your_url
 VITE_SUPABASE_ANON_KEY=your_key
 
 # 👥 Who Are the Users
+
 • Rural citizens such as farmers and daily wage workers
+
 • Informal sector workers including vendors and artisans
+
 • Students and youth seeking opportunities and scholarships
+
 • Urban low-income families navigating welfare systems
+
 • Elderly and digitally less-literate users
 
 # 🤝 Credits
