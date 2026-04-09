@@ -132,6 +132,7 @@ VITE_SUPABASE_ANON_KEY=your_key
 
 Team Sahayk
 • Team Lead: Ayush Kumar Choudhary
+
 • Ashish Sharma
 • Jyotsna G
 • Dhanush N
