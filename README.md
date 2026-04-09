@@ -76,10 +76,15 @@ Users can track application status directly in the app.
 # ✨ Key Features
 
 • 🗣️ Voice-first interaction in regional languages
+
 • 🔍 Smart eligibility detection
+
 • ⚡ Instant document retrieval
+
 • 📝 Automated application filling
+
 • 📊 Real-time status tracking
+
 • 🔐 Consent-based secure data sharing
 
 # 🚀 What Makes Sahayk Unique
